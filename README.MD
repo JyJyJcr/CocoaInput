@@ -5,7 +5,7 @@ Support IME input(Japanese,Chinese,Korean) in Minecraft on Mac OS X.
 ```Bash
 git clone https://github.com/Axeryok/CocoaInput.git
 cd CocoaInput
-gradle build
+./gradlew build
 ```
 Jars will be located in "build/libs".
 
