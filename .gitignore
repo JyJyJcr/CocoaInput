@@ -11,3 +11,7 @@
 !build_lib_for_mac.sh
 
 cocoainput/build
+
+!gradle
+!gradlew
+!gradlew.bat
